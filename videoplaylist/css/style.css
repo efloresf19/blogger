@@ -1,19 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
-/*
-*{
-   font-family: 'Poppins', sans-serif;
-   margin:0; padding:0;
-   box-sizing: border-box;
-   outline: none; border:none;
-   text-decoration: none;
-   text-transform: capitalize;
-}
 
-body{
-   background-color: coral;
-   padding:20px;
-}
-*/
 .container{
    max-width: 1200px;
    margin:100px auto;
@@ -90,8 +76,8 @@ body{
 }
 
 .container .video-list-container .list .list-video{
-   width: 0px;
-   height: 0px;
+   width: 100px;
+   height: 60px;
    border-radius: 0px;
 }
 
@@ -99,15 +85,6 @@ body{
    font-size: 17px;
    color:#444;
 }
-
-
-
-
-
-
-
-
-
 
 
 
